@@ -14,7 +14,7 @@ const Contact = () => {
           Contact Me <PiContactlessPaymentFill className={"inline"} />
         </h2>
         <p className={`${caveat.className} text-lg text-gray-500 mb-6`}>
-          Feel free to reach out if you'd like to collaborate or just want to
+          Feel free to reach out if you had like to collaborate or just want to
           chat!
         </p>
         <a

@@ -5,6 +5,10 @@ import { TbBrandTypescript } from "react-icons/tb";
 import { RiNextjsLine } from "react-icons/ri";
 import { AiOutlineHtml5 } from "react-icons/ai";
 
+
+
+
+
 const caveat = Caveat({ subsets: ["latin"] });
 const Skills = () => {
   return (
@@ -21,7 +25,7 @@ const Skills = () => {
         <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-6">
           <div className="p-6 bg-gray-950 rounded-lg border-4 ">
             <h3 className={`  ${caveat.className} text-xl font-semibold`}>
-              Next.js <RiNextjsLine className="inline" />
+              Next.js< RiNextjsLine className="inline" />
             </h3>
           </div>
           <div className="p-6 bg-gray-950 rounded-lg border-4">

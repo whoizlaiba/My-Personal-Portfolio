@@ -22,7 +22,7 @@ const Hero: FC = () => {
         <h1
           className={`${caveat.className} text-4xl sm:text-6xl font-bold md:text-4xl lg:px-16 md:px-10  `}
         >
-          Hello, <br /> I’m Laiba Parvez
+          Hello, <br /> I am Laiba Parvez
         </h1>
 
         <span
